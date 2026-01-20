@@ -5,14 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvhkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="nvhkrishna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nvhkrishna10a" target="blank"><img src="https://img.shields.io/twitter/follow/nvhkrishna10a?logo=twitter&style=for-the-badge" alt="nvhkrishna10a" /></a> </p>
-🌱 Student at VASAVI College of Engineering, Hyderabad
-👨‍💻 Student Developer focused on Full-Stack Web Development (MERN Stack)
-🤖 Exploring Machine Learning, Generative AI Development
-🌐 Passionate about problem-solving on LeetCode and building user-friendly web applications
-💡 Always learning, experimenting, and adapting to new technologies
-🔍 Interested in turning ideas into scalable, real-world solutions!!
+🌱 Student at VASAVI College of Engineering, Hyderabad | <br>
+👨‍💻 Student Developer focused on Full-Stack Web Development (MERN Stack) | <br>
+🤖 Exploring Machine Learning, Generative AI Development |<br>
+🌐 Passionate about problem-solving on LeetCode and building user-friendly web applications |<br>
+💡 Always learning, experimenting, and adapting to new technologies |<br>
+🔍 Interested in turning ideas into scalable, real-world solutions!! |<br>
 
-📫 You can reach out to me at nvhkrishna10a@gmail.com
+ *** You can reach out to me at nvhkrishna10a@gmail.com  ***<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
