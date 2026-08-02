@@ -1,5 +1,5 @@
 # Introduction
-<h1 align="center">Hi 👋, I'm NVH.Krishna</h1>
+<h1 align="center">Hi 👋, I'm NVH Krishna</h1>
 <h3 align="center">Aspiring Machine Learning Engineer & Full-Stack Developer</h3>
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvhkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="nvhkrishna" /> </p>
