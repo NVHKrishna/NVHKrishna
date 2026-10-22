@@ -8,8 +8,8 @@
 
 <ul style="padding-left: 1px;">
   <li>🌱 B.Tech Student Major in ECE and Minors in CSE at VASAVI College of Engineering  |</li>
-  <li>🤖 Aspiring Machine Learning Engineer passionate about developing intelligent AI solutions and interested in designing scalable data pipelines and ML workflows  |</li>
-  <li>☁️ Enthusiastic about deploying machine learning models and full-stack applications on  AWS Cloud  |</li>
+  <li>🤖 Aspiring Machine Learning Engineer passionate about developing intelligent AI solutions and interested in designing scalable Data pipelines and ML workflows  |</li>
+  <li>☁️ Enthusiastic about deploying machine learning models and full-stack applications <br> on AWS Cloud  |</li>
   <li>👨‍💻 Building AI-powered web applications using Python, Machine Learning and <br>  MERN Stack  |</li>
 
 
